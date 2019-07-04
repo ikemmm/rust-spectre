@@ -3,4 +3,4 @@ A Rust variant of the Spectre V1 attack formulated in my bachelor research. The 
 
 Read the thesis text [here](./thesis.pdf).
 
-A proof-of-concept implementation of the attack is located [here](./src/main.rs).
+A functioning proof-of-concept implementation of the attack is located [here](./src/main.rs).
