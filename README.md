@@ -14,8 +14,9 @@ A functioning **proof-of-concept** implementation of the attack is located [here
 
 3. Run
 
-`cargo build`
-
-`cargo run`
+```bash
+cargo build
+cargo run
+```
 
 in the download directory.
