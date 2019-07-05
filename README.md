@@ -6,13 +6,15 @@ Read the **thesis** text [here](./thesis.pdf).
 A functioning **proof-of-concept** implementation of the attack is located [here](./src/main.rs).
 
 
+
+
 **If you are new to Rust:**
 
-1 Install the Rust environment on your operating system along with Cargo, the Rust package manager.
+* Install the Rust environment on your operating system along with Cargo, the Rust package manager.
 
-2 Download the repository. The `Cargo.toml` file and `src` directory alone are sufficient.
+* Download the repository. The `Cargo.toml` file and `src` directory alone are sufficient.
 
-3 Run
+* Run
 ```bash
 cargo build
 cargo run
