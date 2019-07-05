@@ -359,7 +359,7 @@ fn main()
         println!("Succesful runs: {} Faulty runs: {}", successful_runs, unsuccessful_runs);
         println!("Average faulty runs until success: {:.10}", avg_until_success);
         if successful_runs < unsuccessful_runs {
-            println!("The environment seems to not have been set up ideally for the attack.");
+            println!("The environment seems not to have been set up ideally for the attack.");
         } else {
             println!("The environment seems to have been set up ideally for the attack.");
             return_code = 0;
@@ -383,7 +383,7 @@ fn main()
     }
 
     if successful_runs < unsuccessful_runs {
-        println!("Result: FAIL {}", attack_info.secret_array_address);
+        println!("Result: FAILURE {}", attack_info.secret_array_address);
     }
     else {
         println!("Result: SUCCESS {}", attack_info.secret_array_address);
