@@ -12,11 +12,14 @@ A functioning **proof-of-concept** implementation of the attack is located [here
 
 * Install the Rust environment on your operating system along with **Cargo**, the Rust package manager.
 
-* Download the repository. The `Cargo.toml` file and `src` directory alone are sufficient.
+* Download the repository or the`Cargo.toml` file and `src` directory.
 
 * Run
 ```bash
 cargo build
 cargo run
 ```
-in the download directory.
+  in the download directory.
+
+More on [Spectre](https://www.spectreattack.com)
+More on [Rust](https://doc.rust-lang.org/stable/book)
