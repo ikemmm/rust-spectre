@@ -23,4 +23,4 @@ cargo run
 
 More on [Spectre](https://www.spectreattack.com)
 
-What is [Rust](https://doc.rust-lang.org/stable/book)
+More on [Rust](https://doc.rust-lang.org/stable/book)
