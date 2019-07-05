@@ -21,6 +21,6 @@ cargo run
 ```
   in the download directory.
 
-More on [Spectre](https://www.spectreattack.com)
+More on the [Spectre vulnerability](https://www.spectreattack.com).
 
-More on [Rust](https://doc.rust-lang.org/stable/book)
+More on the [Rust programming language](https://doc.rust-lang.org/stable/book).
