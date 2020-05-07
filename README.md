@@ -28,6 +28,9 @@ The thesis' text has since been corrected and updated.
 
 You can find the original submitted to the university [here](./former-thesis.pdf).
 
+&nbsp;
+
+
 More on the [Spectre vulnerability](https://www.spectreattack.com)
 
 More on the [Rust programming language](https://doc.rust-lang.org/stable/book)
