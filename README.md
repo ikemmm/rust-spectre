@@ -25,7 +25,8 @@ cargo run
 &nbsp;
 
 The thesis' text has since been corrected and updated.
-You can find the original submitted to the university [here](./former-thesis.pdf)
+
+You can find the original submitted to the university [here](./former-thesis.pdf).
 
 More on the [Spectre vulnerability](https://www.spectreattack.com)
 
